@@ -67,8 +67,7 @@ if st.button("Predict Acid Concentration"):
 # -----------------------------
 st.markdown("""
 ---
-**Model:** Random Forest Regressor  
-**Inputs:** Temperature, Conductivity  
-**Output:** H₂SO₄ concentration (g/L)  
+**Model:** RF Regressor  
+ 
 
 """)
